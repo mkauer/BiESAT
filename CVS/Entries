@@ -1,0 +1,18 @@
+D/DBruns////
+D/DBtemp////
+D/include////
+D/DBsimu////
+/README/1.5/Mon Oct 29 21:19:47 2012//
+/TODO/1.4/Mon Oct 29 21:19:47 2012//
+/_combineMC.cxx/1.2/Fri Oct  9 15:55:13 2009//
+/combineMC.sh/1.1/Fri Sep 25 16:43:04 2009//
+/data2root.cxx/1.3/Wed Sep 26 18:26:37 2012//
+/quickfit_976kev.cxx/1.5/Mon Oct 29 21:19:47 2012//
+/quickfit_landau_976.cxx/1.4/Mon Oct 29 21:19:47 2012//
+/setResolution.sh/1.1/Fri Sep 25 16:43:04 2009//
+D/MCbetas////
+D/MCgammas////
+D/deps////
+/BiESAT.cxx/1.8/Fri Oct 26 01:22:14 2012//
+/Changelog/1.6/Fri Oct 26 01:19:32 2012//
+/old_BiESAT.cxx/1.1/Wed Sep 26 18:26:50 2012//

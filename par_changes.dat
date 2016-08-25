@@ -1,0 +1,3 @@
+
+  return exp0*TMath::Exp((-x*exp1)) + Cn500*(1/(1+TMath::Exp((x-Ce500)/Cs500)))*(1+TMath::Exp(TMath::Power(x,1)*Css500)) + Scale1*gg(x,CGe500,CGs500) + Cn1000*(1/(1+TMath::Exp((x-Ce1000)/Cs1000)))*(1+TMath::Exp(TMath::Power(x,1)*Css1000)) + Scale2*gg(x,CGe1000,CGs1000) + Gn482*(1.52*gg(x,Ge482,Gs482)+0.438*gg(x,Ge482+72.1*Gc482,Gs482*TMath::Sqrt(1+73*Gc482/Ge482))+0.147*gg(x,Ge482+84.1*Gc482,Gs482*TMath::Sqrt(1+85*Gc482/Ge482))) + Gn976*(7.03*gg(x,Ge976,Gs976)+1.840*gg(x,Ge976+72.3*Gc976,Gs976*TMath::Sqrt(1+73*Gc976/Ge976))+0.545*gg(x,Ge976+84.3*Gc976,Gs976*TMath::Sqrt(1+85*Gc976/Ge976))) + offset;
+
